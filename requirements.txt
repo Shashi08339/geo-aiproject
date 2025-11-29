@@ -1,6 +1,6 @@
 streamlit
-pandas
 numpy
+pandas
 matplotlib
 plotly
 geopandas
@@ -8,6 +8,6 @@ shapely
 rasterio
 fiona
 gdal
-requests
 joblib
 scikit-learn
+requests
